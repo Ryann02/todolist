@@ -1,0 +1,29 @@
+body {
+  background: url(../image/2.jpg);
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  height: 90vh;
+}
+
+.container {
+  max-width: 600px;
+  background-color: rgba(59, 135, 248, 0.685);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-left: 10px;
+}
